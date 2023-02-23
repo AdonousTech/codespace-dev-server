@@ -1,3 +1,3 @@
 # codespace-dev-server
 
-A simple webserver for quick codespace projects
+A simple webserver for quick threejs codespace projects
