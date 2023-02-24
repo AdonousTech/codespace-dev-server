@@ -1,6 +1,6 @@
 {
    "scripts": {
-    "dev": "npx webpack serve --mode development --open --watch"
+    "dev": "npx webpack serve --mode development --open"
    },
    "devDependencies": {
     "copy-webpack-plugin": "^11.0.0",
