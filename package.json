@@ -2,6 +2,9 @@
    "scripts": {
     "dev": "npx webpack serve --mode development --open"
    },
+      "dependencies": {
+      "three": "^0.150.0"
+   },
    "devDependencies": {
     "copy-webpack-plugin": "^11.0.0",
     "html-webpack-plugin": "^5.5.0",
